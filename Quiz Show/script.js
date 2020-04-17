@@ -47,7 +47,7 @@ function selectAnswer(e) {}
 const questions = [
   {
     question: "Which Japanese record label does NOT have a US Counterpart",
-    answer: [
+    answers: [
       { text: "Avex Inc", correct: true },
       { text: "Sony Music", correct: false },
     ],
